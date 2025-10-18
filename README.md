@@ -228,7 +228,7 @@ rahul.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (108).png>)
+![alt text](image.png)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
